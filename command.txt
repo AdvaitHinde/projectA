@@ -1,3 +1,9 @@
 Let's see git commands:
 git init
-
+git commit
+git add
+git log
+git rm
+git restire
+git config --global user.name ""
+git config --global user.name ""
